@@ -1,0 +1,40 @@
+.jumbotron {
+    
+    margin-top: 30px;
+    margin-bottom: 15px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    text-align: center;
+    padding: 30px;
+  }
+  
+  .badge-primary {
+    background-color: #e65c4f;
+  }
+  
+ 
+
+  span {
+    
+    cursor: pointer;
+  }
+  
+  span:hover {
+    background:grey;
+  }
+
+body{
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70%;
+  background-color: #78a6c9;
+  left: 30%;
+}
+
+ #button-addon2{
+  background: #fe9677;
+
+  }
+/* #1e1e5d */
